@@ -24,7 +24,7 @@ Notification text can also be changed in the config, in case you don't like my w
 
 Open the menu with the control button set in the config. Installing the BaitCar system in a vehicle will allow you to remotely disable, unlock, and rearm the BaitCar. Clicking the `Video Feed` option will display video from a dash cam viewing the interior of the vehicle. If the script breaks due to someone deleting a disabled BaitCar, use the `Reset` option to reset *ALL* BaitCar instances in the server.
 
-## Dependancies
+## Dependencies
 This script uses NativeUI for the menu, thus the [Lua version of NativeUI from FrazzIe](https://github.com/FrazzIe/NativeUILua) is required.
 
 ## Installation
